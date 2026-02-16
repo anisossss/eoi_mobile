@@ -211,15 +211,6 @@ eas submit --platform ios
 
 ---
 
-## Contact
-
-For inquiries regarding this EOI submission:
-
-- **Email**: tender@csir.co.za
-- **EOI Reference**: 8119/06/02/2026
-
----
-
 <div align="center">
 
 **Built for CSIR EOI 8119/06/02/2026**

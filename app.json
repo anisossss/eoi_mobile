@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "CSIR Safety Mobile",
-    "slug": "csir-safety-mobile",
+    "slug": "eoi-aineximmobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -28,10 +28,11 @@
       "package": "za.co.csir.safety.mobile",
       "versionCode": 1,
       "permissions": [
-        "CAMERA",
-        "READ_EXTERNAL_STORAGE",
-        "WRITE_EXTERNAL_STORAGE",
-        "NOTIFICATIONS"
+        "android.permission.CAMERA",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.NOTIFICATIONS",
+        "android.permission.RECORD_AUDIO"
       ]
     },
     "web": {
@@ -65,8 +66,9 @@
         "origin": false
       },
       "eas": {
-        "projectId": "your-eas-project-id"
+        "projectId": "211af5bc-68ab-4c2d-95ef-0bfd1d2bf7aa"
       }
-    }
+    },
+    "owner": "ainexim"
   }
 }

@@ -25,7 +25,6 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#2563eb"
       },
-      "kotlinVersion": "2.0.21",
       "package": "za.co.csir.safety.mobile",
       "versionCode": 1,
       "permissions": [
